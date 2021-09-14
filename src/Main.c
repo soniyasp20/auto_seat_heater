@@ -12,7 +12,7 @@ int main(void)
     USARTInit(103);
     while(1)
     {
-        Buttons();
+        Button_call();
         ADCRead(0);
         PWM();
         Pulse();
