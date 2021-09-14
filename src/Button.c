@@ -1,7 +1,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
 
-void Buttons()
+void Button_call()
 {
     if(!(PIND&(1<<PD0)) && !(PIND&(1<<PD4)))
         {
