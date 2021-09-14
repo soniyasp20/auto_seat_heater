@@ -4,7 +4,7 @@
 /*Brief
 * Initializes ADC by setting Aref = Avcc
 */
-void InitADC();
+void ADC();
 
 /*Brief
 * Reads ADC output from a particular channel
@@ -13,4 +13,4 @@ void InitADC();
 uint16_t ReadADC(uint8_t ch);
 
 #endif // A2HEADER_H_INCLUDED
-© 2021 GitHub, Inc.
+Â© 2021 GitHub, Inc.
