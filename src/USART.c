@@ -31,7 +31,7 @@ void USARTWriteChar()
     {
         //do nothing
     }
-    temp = ReadADC(0);
+    temp = ADCRead(0);
     if((temp>=0)&&(temp<=200))
         data = 20;
     if((temp>=210)&&(temp<=500))
