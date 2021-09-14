@@ -8,7 +8,7 @@ void PortSet();
 /* Brief
 * Gives output to LED if both the buttons are in 'close' position.
 */
-void Buttons();
+void Button_call();
 
 
 #endif // A1HEADER_H_INCLUDED-
