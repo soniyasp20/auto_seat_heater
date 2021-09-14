@@ -13,7 +13,7 @@ int main(void)
     while(1)
     {
         Buttons();
-        ReadADC(0);
+        ADCRead(0);
         PWM();
         Pulse();
         USARTWriteChar();
