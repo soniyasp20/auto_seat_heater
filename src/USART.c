@@ -1,7 +1,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
 
-void USARTInit(uint16_t ubrr)
+void USART(uint16_t ubrr)
 {
     //setting baud rate
     UBRR0L = ubrr;
