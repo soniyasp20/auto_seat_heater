@@ -2,7 +2,7 @@
 unsigned volatile int temp;
 void Pulse()
 {
-    temp = ReadADC(0);
+    temp = ADCRead(0);
     if((temp>=0)&&(temp<=200))
         OCR1A=205;
     if((temp>=210)&&(temp<=500))
