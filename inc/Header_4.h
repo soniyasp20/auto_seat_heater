@@ -4,7 +4,7 @@
 * Initializes USART Communication by setting baud rate and enabling rx and tx
 * Parameter : Baud rate of data type uint16_t
 */
-void USARTInit(uint16_t);
+void USART(uint16_t);
 
 /*Brief
 * Reads Data from Rx pin
