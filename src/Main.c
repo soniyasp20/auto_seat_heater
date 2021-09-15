@@ -8,7 +8,7 @@
 int main(void)
 {
     PortSet();
-    ADC();
+  InitADC();
     USART(103);
     while(1)
     {
