@@ -13,4 +13,3 @@ void ADC();
 uint16_t ADCRead(uint8_t ch);
 
 #endif // A2HEADER_H_INCLUDED
-
