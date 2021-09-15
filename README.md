@@ -46,7 +46,7 @@ This project can perform various opration at the same and make user's task smoot
 ## Contributors List and Summary
 
 |PS No. |  Name   |    Features    |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 |`99006280` | Soniya Patil  | Complete project   |
 
 # Learning Resources
