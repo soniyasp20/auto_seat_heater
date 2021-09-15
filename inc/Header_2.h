@@ -4,8 +4,7 @@
 /*Brief
 * Initializes ADC by setting Aref = Avcc
 */
-void ADC();
-
+void InitADC();
 /*Brief
 * Reads ADC output from a particular channel
 * Parameter : Channel number of data type uint8_t
