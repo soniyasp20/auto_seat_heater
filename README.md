@@ -1,3 +1,12 @@
+
+# Folder Structure
+
+|Folder        |Description |
+|-------------|-----------|
+|`Documentation`|Makefile and Doxyfile|
+|`inc`|Header files|
+|`src`|.c files|
+
 # auto_seat_heater
 |[code Quality score]|[code Grade]|[codacy Badge]
 |-----|------|------|
