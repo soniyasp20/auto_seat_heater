@@ -7,9 +7,9 @@ The System will check whether the person is sitted on the seat or not if person 
 |Folder        |Description |
 |-------------|-----------|
 |`Documentation`|Makefile and Doxyfile|
+|`Simulation`|Screenshot of Simulation|
 |`inc`|Header files|
 |`src`|.c files|
-
 
 # 4W&#39;s and 1&#39;H
 
