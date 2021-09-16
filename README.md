@@ -42,9 +42,9 @@ Avoid cold Feeling.
 This project can perform various opration at the same and make user's task smooth and effortless.
 
 # auto_seat_heater
-|[code Quality score]|[code Grade]|[codacy Badge]
-|-----|------|------|
-|![Code Quality](https://www.code-inspector.com/project/28704/score/svg) | ![Code Grade](https://www.code-inspector.com/project/28704/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d8e4a3d96cfa4b55ab74e88946024b2c)](https://www.codacy.com/gh/soniyasp20/auto_seat_heater/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=soniyasp20/auto_seat_heater&amp;utm_campaign=Badge_Grade)|
+|[code Quality score]|[code Grade]|[codacy Badge]|[Code Inspector]|
+|-----|------|------|-----|
+|![Code Quality](https://www.code-inspector.com/project/28704/score/svg) | ![Code Grade](https://www.code-inspector.com/project/28704/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d8e4a3d96cfa4b55ab74e88946024b2c)](https://www.codacy.com/gh/soniyasp20/auto_seat_heater/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=soniyasp20/auto_seat_heater&amp;utm_campaign=Badge_Grade)|[![Git Inspector](https://github.com/soniyasp20/auto_seat_heater/actions/workflows/Git_Inspector%20(1).yml/badge.svg?branch=main)](https://github.com/soniyasp20/auto_seat_heater/actions/workflows/Git_Inspector%20(1).yml)
 
 # Challenges Faced and How Was It Overcome
 
