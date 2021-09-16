@@ -24,11 +24,11 @@ The Seat Optimizes the place and temperature control According to the time
 
 ## When:
 
-When Person feels cold and want warm seat.
+Heated seats can make cars much more comfortable in the winter, or for those who often get cold even in the summer.
 
 ## Where:
 
-System can be used at Atmosphere reacges to low.
+System can be used at Atmosphere reaches to low.
 
 ## How:
 
