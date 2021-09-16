@@ -40,15 +40,15 @@ The System will check whether the person is sitted on the seat or not if person 
 
 # 4W&#39;s and 1&#39;H
 
-**What:** Seat Warmer System. 
+- **What:** Seat Warmer System. 
 
-**When:** Heated seats can make cars much more comfortable in the winter, or for those who often get cold even in the summer.
+- **When:** Heated seats can make cars much more comfortable in the winter, or for those who often get cold even in the summer.
 
-**Where:** System can be used at Atmosphere reaches to low.
+- **Where:** System can be used at Atmosphere reaches to low.
 
-**Why:** Avoid cold Feeling.
+- **Why:** Avoid cold Feeling.
 
-**How:** This project can perform various opration at the same and make user's task smooth and effortless.
+- **How:** This project can perform various opration at the same and make user's task smooth and effortless.
 
 # auto_seat_heater
 |[code Quality score]|[code Grade]|[codacy Badge]|[Code Inspector]|[CppCheck]|
