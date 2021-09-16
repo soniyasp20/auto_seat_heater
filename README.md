@@ -11,16 +11,19 @@ The System will check whether the person is sitted on the seat or not if person 
 |`inc`|Header files|
 |`src`|.c files|
 
+
+# Featutres
+
+1.Person can seat comfortably on seat in cold season.
+2.Automatically turn on when needed.
+3.Passenger can change the tempreature according to choice by checking the current tempearture on display.
+
 # 4W&#39;s and 1&#39;H
 
-## Who:
-
-1.Car Owner
 
 ## What:
 
-The Seat Optimizes the place and temperature control According to the time
-
+Seat Warmer System. 
 
 ## When:
 
@@ -29,6 +32,10 @@ Heated seats can make cars much more comfortable in the winter, or for those who
 ## Where:
 
 System can be used at Atmosphere reaches to low.
+
+## Why:
+
+Avoid cold Feeling.
 
 ## How:
 
