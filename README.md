@@ -14,9 +14,29 @@ The System will check whether the person is sitted on the seat or not if person 
 
 # Featutres
 
-1.Person can seat comfortably on seat in cold season.
-2.Automatically turn on when needed.
-3.Passenger can change the tempreature according to choice by checking the current tempearture on display.
+- Person can seat comfortably on seat in cold season.
+- Automatically turn on when needed.
+- Passenger can change the tempreature according to choice by checking the current tempearture on display.
+
+
+# SWOT Analysis
+
+**Strength**
+- User Friendly
+- Easy to modify temprature
+- Low Cost
+- Flexible
+
+**Weakness**
+
+- Used only where Temperature becomes very low.
+
+**Opportunities**
+- It can be implemented by replacing heater by air conditioners so that it will be helpful in all the countries.
+
+**Therats**
+
+- Not suitable in average or High temperature.
 
 # 4W&#39;s and 1&#39;H
 
